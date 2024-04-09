@@ -1,4 +1,4 @@
--  ✨Hi, I’m @Kareem Yahia
+-  ✨Hi, I’m Kareem Yahia
 -  ✨A Senior Electronics Engineering student at Ain Shams University.
 -  ✨Credit Hours System (Scholarship).
 -  ✨Expected Graduation Year: 2025  //  Accumulative GPA: 3.94  // Rank: 1
